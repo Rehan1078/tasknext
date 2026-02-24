@@ -152,6 +152,6 @@ flutter run
 
 ## 👤 Author
 
-**Muhammad Rehan**  
+**muhammad rehan yousaf**  
 *Flutter Developer*  
-[LinkedIn](https://www.linkedin.com/in/rehan-malik) | [GitHub](https://github.com/m-rehan-developer)
+[LinkedIn](https://www.linkedin.com/in/muhammad-rehan-yousaf-ba70a224a/)
