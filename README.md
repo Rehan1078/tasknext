@@ -9,7 +9,7 @@ A high-performance, robust, and elegant task management application built as a *
 
 | Light Mode | Dark Mode |
 |:---:|:---:|
-| ![Light Mode Placeholder](https://via.placeholder.com/300x600?text=Scan+TaskNest+Light) | ![Dark Mode Placeholder](https://via.placeholder.com/300x600?text=Scan+TaskNest+Dark) |
+| ![Light Mode](assets/lightmode.png) | ![Dark Mode](assets/darkmode.png) |
 
 ---
 
